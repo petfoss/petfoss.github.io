@@ -1,0 +1,39 @@
+body {
+    background-color: #185CA5;
+}
+
+.avatar {
+    margin-top: 2%;
+}
+
+.name {
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+}
+
+.handle {
+    font-family: Monospace;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-left: -60px;
+}
+
+.ico {
+    margin-top: 1%;
+}
+
+.email {
+    font-family: Monospace;
+    font-size: 20px;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+a:link {color: white; text-decoration: none;}
+a:active {color: white; text-decoration: none;}
+a:hover {color: #cccccc;}
+a:visited {color: white; text-decoration: none;}
